@@ -1,0 +1,41 @@
+body{
+  background-color:#1B2430 ;
+  
+}
+
+.roller{
+    cursor: pointer;
+}
+.navbar{
+    background-color: #1B2430;
+}
+
+
+footer{
+    background-color: #343a40;
+    
+}
+
+
+ nav a:hover
+ {
+    transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -moz-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    color: crimson  !important;
+}
+ 
+
+nav span:hover
+{
+   transform: translateY(-2px);
+   -webkit-transform: translateY(-2px);
+   -moz-transform: translateY(-2px);
+   -ms-transform: translateY(-2px);
+   -o-transform: translateY(-2px);
+   
+}
+
+ 
