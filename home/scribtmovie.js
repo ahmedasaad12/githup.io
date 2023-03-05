@@ -25,7 +25,7 @@ request.addEventListener("load" , function(){
         `;
         console.log(photo[i]);
     }
-    displayData.innerHTML = temp;
+    document.getElementById('showData').innerHTML=container
    
 });
 
